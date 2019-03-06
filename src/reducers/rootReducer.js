@@ -16,7 +16,7 @@ const initState = {
         {
             name: 'Portfolio', 
             picture: Portfolio, 
-            description: 'My first website launched website presenting my work in a visually appealing way. During the work over this project, I learned how to manipulate the DOM using jquery and how to design in a layout in a mobile-first principle.', 
+            description: 'My first website launched website presenting my work in a visually appealing way. During the work over this project, I learned how to manipulate the DOM using jquery and how to design website layout in a mobile-first principle.', 
             adress: 'https://github.com/kawalDziada/Portfolio',
             skills: ['Responsive web design', 'jquery', 'npm', 'SVG'],
             id: '2'

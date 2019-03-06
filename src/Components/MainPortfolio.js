@@ -20,7 +20,7 @@ class MainPortfolio extends Component {
                             <span className="card-title grey-text text-darken-4">{project.name}<i className="material-icons right">close</i></span>
                                 <p className="flow-text">{project.description}</p>
                                 <div className="divider"></div>
-                                <h3 className="card-title grey-text text-darken-4">Established skill set:</h3>
+                                <h3 className="card-title grey-text text-darken-4">Skills I acquired:</h3>
                                 {project.skills.map(skill => {
                                     return (
                                         <ol>
@@ -39,7 +39,7 @@ class MainPortfolio extends Component {
         })
         return(
             <div className="container home">
-                <h4 class="black-text">Contact:</h4>
+                <h4 class="black-text">Projects:</h4>
                 {projectsList}
             </div> 
         )

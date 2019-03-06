@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="col l6 offset-l1 s12">
                 <h5 className="white-text">Links</h5>
                 <ul>
-                  <li><h5 className="black-text text-lighten-3 flow-text" >tel: +4807523238855</h5></li>
+                  <li><h5 className="black-text text-lighten-3 flow-text" >tel: +487523238855</h5></li>
                   <li><h5 className="black-text text-lighten-3 flow-text" >email: marcinkondol@gmail.com</h5></li>
                   <li><h5><a className="orange-text text-lighten-1 flow-text" href="https://github.com/kawalDziada" target="_blank" rel="noopener noreferrer"><span className="black-text">github:</span> https://github.com/kawalDziada</a></h5></li>
                 </ul>
