@@ -6,7 +6,7 @@ const Footer = () => {
           <div className="container">
             <div className="row">
               <div className="col l5 s12">
-                <h4 className="black-text">Contact:</h4>
+                <h4 className="black-text">Contact Details:</h4>
                 <p className="black-text text-lighten-3 flow-text">Do you like my work? Are you looking for someone to hire or to invite into collaboration with your project? Feel free to email or call me.</p>
               </div>
               <div className="col l6 offset-l1 s12">
